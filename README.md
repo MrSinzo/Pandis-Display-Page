@@ -1,2 +1,2 @@
 # Pandis-Display-Page
-a WIP oage to help display Pandi's home-mdae crafts
+a WIP oage to help display Pandi's home-made crafts
