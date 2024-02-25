@@ -1,2 +1,2 @@
 # Pandis-Display-Page
-A WIP page to help display Pandi's home-made crafts
+A WIP page to help display Pandi's hand-made crafts

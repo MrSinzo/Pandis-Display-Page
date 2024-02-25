@@ -1,0 +1,18 @@
+:root {
+  --background-color: aqua;
+  --box1-background-color: aquamarine;
+  --box2-background-color: rgb(255, 127, 244);
+  --box3-background-color: rgb(214, 254, 202);
+  --box4-background-color: aquamarine;
+  --border-color: rgb(189, 14, 154);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+/* * {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} */
+
+h1 {
+  font-style: italic;
+}
+
+
